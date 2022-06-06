@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Viet7501
-- 👀 I’m interested in Aerospace Engineering
+- 👀 I’m interested in Aerospace Engineering, MATLAB, CFD
 - 🌱 I’m currently learning Python, Django
 - 💞️ I’m looking to collaborate on Python, Django project
 - 📫 How to reach me viet.quocle75@gmail.com

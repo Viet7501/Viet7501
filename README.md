@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Viet7501
 - 👀 I’m interested in Aerospace Engineering, MATLAB, CFD
-- 🌱 I’m currently learning Python, Django
-- 💞️ I’m looking to collaborate on Python, Django project
+- 🌱 I’m currently learning Python, Django, Ansys
+- 💞️ I’m looking to collaborate on Python, Django, CFD, research journal on Aerospace
 - 📫 How to reach me viet.quocle75@gmail.com
 
 <!---
